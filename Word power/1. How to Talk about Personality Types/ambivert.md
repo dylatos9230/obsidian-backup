@@ -1,0 +1,2 @@
+#### neither extreme
+You have both introverted and extroverted tendencies—at different times and on different occasions. Your interests are turned, in about equal proportions, both inward and outward. Indeed, you’re quite normal—in the sense that your personality is like that of most people.

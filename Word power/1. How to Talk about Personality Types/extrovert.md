@@ -1,0 +1,2 @@
+#### let’s do it together
+You would be great as a teacher, counselor, administrator, insurance agent. You can always become interested—sincerely, vitally interested—in other people’s problems. You’re the life of the party, because you never worry about the effect of your actions, never inhibit yourself with doubts about dignity or propriety. You are usually happy, generally full of high spirits; you love to be with people—lots of people. Your thoughts, your interests, your whole personality are turned outward.

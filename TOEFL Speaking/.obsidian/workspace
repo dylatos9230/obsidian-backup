@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "c623a09bf05a1cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c6f1d236441cc03",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal Preference.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bb419a14a22ce84",
+    "type": "split",
+    "children": [
+      {
+        "id": "606439cfb2e1ac5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2a0132da4dee0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "425c5f4fd4fe6274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220
+  },
+  "right": {
+    "id": "a5ed20e0b474c0bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "84916651429c9f52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "924cc487ee85436b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Preference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Personal Preference.md",
+    "Picking one of the two options.md",
+    "Pick one of the two options.md",
+    "Speaking tasks.md",
+    "Problem Types.md",
+    "Untitled.md"
+  ]
+}

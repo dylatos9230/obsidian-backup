@@ -1,0 +1,3 @@
+## Other
+- [[altruism]]
+- [[altruistic]]

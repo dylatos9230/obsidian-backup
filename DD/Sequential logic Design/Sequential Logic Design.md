@@ -1,0 +1,7 @@
+- The output of the sequential logic depend on both current and **prior** input values. Hence, sequential logic has memory.
+- Sequential logic might explicitly remember certain previous inputs, or it might distill the prior inputs into a smaller amount of information called the **state** of the system.
+- The state of a digital sequential circuit is a set of bits called **state variables** that contain all the information about the past necessary to explain the future behavior of the circuit
+- The chapter begins by studying [[latches and flip-flops]], which are simple sequential circuits that store one bit of state.
+- To simplify design, we discipline ourselves to build only [[synchronous sequential]] circuits consisting of combinational logic and banks of flip-flops containing the state of the circuit.
+- [[FINITE STATE MACHINES]] machines are an easy way to design sequential circuits
+- 

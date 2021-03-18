@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "53bfe9078ed90c2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a72e524577c713e2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f7c4de74a56ca7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "02fb5d9d3859d613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc88a8aff795475c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d13b96d056d19d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336
+  },
+  "right": {
+    "id": "ad1638c98fd6a941",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ebbe425c4f1a0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09fcf16dadc72c9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "1. How to Talk About Personality Types.md",
+    "1. OGRGINS AND RELATED WORDS.md",
+    "left-hand.md",
+    "gauche.md",
+    "droit.md",
+    "right-hand.md",
+    "andros.md",
+    "polys.md",
+    "bi-.md",
+    "gamos.md"
+  ]
+}

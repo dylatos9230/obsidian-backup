@@ -1,0 +1,2 @@
+#### women are no damn good
+Sometime in your dim past, you were crossed, scorned, or deeply wounded by a woman (a mother, or mother ϧgure, perhaps?). So now you have a carefully constructed defense against further hurt—you hate all women.

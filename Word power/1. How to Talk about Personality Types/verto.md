@@ -1,0 +1,4 @@
+## Turn
+- [[introvert]]
+- [[extrovert]]
+- [[ambivert]]

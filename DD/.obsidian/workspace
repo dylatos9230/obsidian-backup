@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "8b506f7c4abdbff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "33a8205c52880f86",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sequential logic Design/synchronous sequential.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cceeea79694f7457",
+    "type": "split",
+    "children": [
+      {
+        "id": "d15104872f314528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e5b90d6ccb0d1b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1925c29140ef2148",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384
+  },
+  "right": {
+    "id": "9dbf5b1409f49ab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4698104faf3cec9",
+        "type": "tabs",
+        "dimension": 85.89562764456981,
+        "children": [
+          {
+            "id": "00f905b5a9acf849",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ff099c69eb20e9ba",
+        "type": "tabs",
+        "dimension": 14.104372355430183,
+        "children": [
+          {
+            "id": "81ab39992b521b73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sequential logic Design/synchronous sequential.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bb8c85b0a9fe730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sequential logic Design/synchronous sequential.md"
+              }
+            }
+          },
+          {
+            "id": "a1af7411a393d55a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1104
+  },
+  "lastOpenFiles": [
+    "Sequential logic Design/synchronous sequential.md",
+    "HDL/synthesis.md",
+    "HDL/Pasted image 20210209021847.png",
+    "HDL/simulation.md",
+    "simulation.md",
+    "synthesis.md",
+    "Hardware Descrip. tion.md",
+    "Verilog.md",
+    "Hardware Description Language.md",
+    "DD.md"
+  ]
+}

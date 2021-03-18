@@ -1,0 +1,1 @@
+- Outputs depend on the current state and the inputs

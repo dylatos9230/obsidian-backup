@@ -1,0 +1,1 @@
+- Outputs depend only on the current state

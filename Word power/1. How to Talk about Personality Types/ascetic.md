@@ -1,0 +1,2 @@
+#### “… that the flesh is heir to …”
+Self-denial, austerity, lonely contemplation—these are the characteristics of the good life, so you claim. The simplest food and the least amount of it that will keep body and soul together, combined with abstinence from ϩeshly, earthly pleasures, will eventually lead to spiritual perfection—that is your philosophy.

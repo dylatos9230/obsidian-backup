@@ -1,0 +1,4 @@
+## hate
+- [[misanthrope]]
+- [[misogynist]]
+- [[misogamist]]

@@ -1,0 +1,5 @@
+- In reality WebGL is[[ just a rasterization engine]].
+- It draws points, lines, and triangles based on code you supply.
+- Getting WebGL to do anything else is up to you to provide code to use [[point, line, and triangles]] to accomplish your task.
+- You need to provide the code in the form of pairs of functions that runs on the GPU.
+- [[WebGL Shaders and GLSL]]

@@ -1,0 +1,15 @@
+- **Determine** all possible states of your  machine
+- **Develop** a **state transition diagram**
+	- Generally this is done from a textual description
+	- You need to 
+		- 1) determine the inputs and outputs for each state and 
+		- 2) figure out how to get from one state to another
+- Approach
+	- Start by defining the **reset state** and what happens from it - this is typically an easy point to start from
+	- Then continue to add **transitions** and **states**
+	- Picking **good state names** is very important
+	- Building an FSM is like programming(but it is not programming)
+		- An FSM has a sequential "control-flow" like a program with conditionals and goto's
+		- The if-then-else construct is controlled by one or more inputs
+		- The outputs are controlled by the state or the inputs
+	- In hardware, we typically have many concurrent FSMs.

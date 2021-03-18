@@ -1,0 +1,3 @@
+## Madness
+- [[egomaniac]]
+- [[egomaniacal]]

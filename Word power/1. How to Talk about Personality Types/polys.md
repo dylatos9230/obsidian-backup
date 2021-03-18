@@ -1,0 +1,4 @@
+## many
+- [[polygyny]]
+- [[polygamy]]
+- [[polyandry]]

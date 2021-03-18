@@ -1,0 +1,4 @@
+- Outputs are **directly accessible** in the state encoding 
+- For example, since we have 3 outputs, encode state with 3 bits, where each bit represents a color.
+- Minimizes output logic
+- Only works for Moor Machines (output function of state)

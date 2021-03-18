@@ -1,0 +1,4 @@
+## mankind
+- [[misanthrope]]
+- [[anthropology]]
+- [[philanthropist]]

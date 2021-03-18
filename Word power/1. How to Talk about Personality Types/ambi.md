@@ -1,0 +1,4 @@
+## Both
+- [[ambivert]]
+- [[ambidexterity]]
+- [[ambidextrous]]

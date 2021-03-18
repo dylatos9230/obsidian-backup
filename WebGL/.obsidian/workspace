@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "5f9900d80100a0a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f7a2b094015c3d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vertex shader.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7585202bf6b8e373",
+    "type": "split",
+    "children": [
+      {
+        "id": "3179ac3aa031964d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e44572eee44d3978",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dca4bd44c360e1f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 542
+  },
+  "right": {
+    "id": "8c240003f07c94e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3186cae6893b85a2",
+        "type": "tabs",
+        "dimension": 63.82228490832158,
+        "children": [
+          {
+            "id": "46a91eb89846fad2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2c73fb81ec76168d",
+        "type": "tabs",
+        "dimension": 36.17771509167842,
+        "children": [
+          {
+            "id": "fa298d6ed8db11b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vertex shader.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 907
+  },
+  "lastOpenFiles": [
+    "Vertex shader.md",
+    "GLSL.md",
+    "WebGL Shaders and GLSL.md",
+    "Varyings.md",
+    "Textures.md",
+    "Uniforms.md",
+    "Fragment shader.md",
+    "vertex shader.md",
+    "fragment shader.md",
+    "Attributes.md"
+  ]
+}

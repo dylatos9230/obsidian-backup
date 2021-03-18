@@ -1,0 +1,2 @@
+#### people are no damn good
+Cynical, embittered, suspicious, you hate everyone. (Especially, but never to be admitted, yourself?) The perfectibility of the human race? “Nonsense! No way!” The stupidity, the meanness, and the crookedness of most mortals (“Most? Probably all!”)—that is your favorite theme.

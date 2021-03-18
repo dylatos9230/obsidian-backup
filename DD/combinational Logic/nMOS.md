@@ -1,0 +1,5 @@
+
+1. The nMOS have regions of [[N-type]] dopants adjacent to the gate called the source and the drain and are built on a [[P-type]] semiconductor substrate
+2. When a positive voltage is applied to the top plate of a capacitor, it establishes an electric field that attracts positive charge on the top plate and negtive charge is atracted to the underside of the gate  that inverts from p-type to effectively become n-type. This inverted region called the *channel*. Now the transistor has a continuous path from the n-type source through the n-type channel to the n-type drain, so electrons can flow from source to drain. The transistor is ON. The gate voltage required to turn on a transistor is called the threshold voltage, Vt, and is typically 0.3 to 0.7V.
+![[Pasted image 20210111140615.png]]
+![[QQ20210111-103142.mp4]] 

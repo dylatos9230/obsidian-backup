@@ -1,0 +1,7 @@
+- Only one bit is "hot" or TRUE at any time.
+- Each bit of state is stored in a flip-flop, so **one-hot encoding** requires more flip-flops than **binary encoding**.
+- But with one-hot encoding, the next-state and output logic is often simpler, so fewer gates are required.
+- Each bit encodes a different state.
+- Simplest design process - very automatable.
+- The best encoding choice depends on the specific FSM.
+- Maximizes # flip-flops, minimizes next state logic. 

@@ -1,0 +1,5 @@
+- The two major purpose of HDLs are logc [[simulation]] and [[synthesis]].
+- Two well-known hardware description languages
+- [[Verilog]]
+- [[VHDL]] (VHSIC Hardware Description Language)
+-

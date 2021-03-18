@@ -1,0 +1,2 @@
+#### me first
+Your attitude to life is simple, direct, and aboveboard—every decision you make is based on the answer to one question: “What’s in it for me?” If your selfishness, greed, and ruthless desire for self-advancement hurt other people, that’s too bad. “This is a tough world, pal, dog eat dog and all that, and I, for one, am not going to be left behind!”

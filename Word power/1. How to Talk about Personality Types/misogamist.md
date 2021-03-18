@@ -1,0 +1,2 @@
+#### “marriage is an institution—and who wants to live in an institution?”
+You will not make the ultimate legal commitment. Members of the opposite sex are great as lovers, roommates, apartment- or house-sharers, but not as lawfully wedded spouses. The ties that bind are too binding for you. You may possibly believe, and possibly, for yourself, be right, that a commitment is deeper and more meaningful if freedom is available without judicial proceedings.

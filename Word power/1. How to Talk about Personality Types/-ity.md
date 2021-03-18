@@ -1,0 +1,1 @@
+## quality, condition, etc. (noun suffix)

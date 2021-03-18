@@ -1,0 +1,2 @@
+- During simulation, inputs are applied to a module, and the outputs are checked to verify that the module operates correctly.
+- Logic simulation is essential to test a system before it is built.
