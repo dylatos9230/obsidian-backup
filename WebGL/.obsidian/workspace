@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vertex shader.md",
+            "file": "GLSL.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vertex shader.md",
+                "file": "GLSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +101,9 @@
     "width": 907
   },
   "lastOpenFiles": [
-    "Vertex shader.md",
     "GLSL.md",
     "WebGL Shaders and GLSL.md",
+    "Vertex shader.md",
     "Varyings.md",
     "Textures.md",
     "Uniforms.md",
