@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GLSL.md",
+            "file": "WebGL Shaders and GLSL.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GLSL.md",
+                "file": "WebGL Shaders and GLSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
     "width": 907
   },
   "lastOpenFiles": [
-    "GLSL.md",
     "WebGL Shaders and GLSL.md",
     "Vertex shader.md",
+    "point, line, and triangles.md",
+    "GLSL.md",
     "Varyings.md",
     "Textures.md",
     "Uniforms.md",
     "Fragment shader.md",
     "vertex shader.md",
-    "fragment shader.md",
-    "Attributes.md"
+    "fragment shader.md"
   ]
 }
