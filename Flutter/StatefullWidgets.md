@@ -1,0 +1,2 @@
+- In order to bulld more complex experiences-for example, to react in more interesting ways to user input-applications typically carry some state.
+- Flutter uses StatefullWidgets to capture this idea.

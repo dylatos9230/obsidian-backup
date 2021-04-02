@@ -1,0 +1,5 @@
+- vis/vid - to see ()
+- [[provident]]
+- [[envisage]]
+- [[invidious]]
+- [[improvise]]

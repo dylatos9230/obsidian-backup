@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "c5b72ad9ea3adea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb779ef1bb7ec1c",
+        "type": "leaf",
+        "dimension": 59.332974717590105,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "4e0757a459eb7f91",
+        "type": "leaf",
+        "dimension": 40.667025282409895,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fundamental of ML&DL/1.2.4 How to Optimizatize The Linear Model.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd935e871bc1f5e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b0bbf70c61b3024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb2228ba64b6e36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "95ea83150cfd1bcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321
+  },
+  "right": {
+    "id": "5dec301052b5a4eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01aaa4f1f6219d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "339bfacec767352a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamental of ML&DL/1.2.4 How to Optimizatize The Linear Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "1.2.4 How to Optimizatize The Linear Model.md",
+    "Fundamental of ML&DL/1.2.4.md",
+    "Fundamental of ML&DL/1.2 How to find a function?.md",
+    "Fundamental of ML&DL/1.1.3 Structured Learning.md",
+    "1.2.4.md",
+    "Fundamental of ML&DL/1. Fundamental of Machine Learning.md",
+    "Fundamental of ML&DL/1.1 Functions types.md",
+    "Fundamental of ML/Gradient Descent.md",
+    "Fundamental of ML/1.2 How to find a function?.md",
+    "Fundamental of ML/1.2.1 Function with unknown Parameters.md"
+  ]
+}

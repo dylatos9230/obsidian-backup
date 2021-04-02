@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "2bbba8e32151f922",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da9dc0fda585580",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "User Interface.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "14db78c0b934355e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "StatefullWidgets.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a5799e5909b510ec",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e3bceb4db75a924",
+    "type": "split",
+    "children": [
+      {
+        "id": "0708d8ece4017fba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48613ed64c5d56d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d84add1497fb5b1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fe1ddcfd9555bd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb046863b09fc936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b68abdbb5c2693",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "StatefullWidgets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "StatefullWidgets.md",
+    "Widgets.md",
+    "User Interface.md",
+    "Basic widgets.md",
+    "Gestures.md",
+    "Untitled.md"
+  ]
+}

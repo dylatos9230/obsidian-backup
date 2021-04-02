@@ -1,0 +1,5 @@
+- ple,plen,plet,pli=full,fill,表示"满,填满"
+- [[plenty]]
+- [[plethora]]
+- [[replete]]
+- [[deplete]]

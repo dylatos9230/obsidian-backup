@@ -1,0 +1,4 @@
+- It is aimed to minimize the changes needed in the underlying render tree to transition from one state to the next.
+- [[Basic widgets]]
+- [[StatelessWidgets]]
+- [[StatefullWidgets]]

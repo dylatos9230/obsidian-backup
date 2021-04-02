@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sequential logic Design/synchronous sequential.md",
-            "mode": "preview"
+            "file": "Logic Gate.md",
+            "mode": "source"
           }
         }
       }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384
+    "width": 405
   },
   "right": {
     "id": "9dbf5b1409f49ab1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequential logic Design/synchronous sequential.md",
+                "file": "Logic Gate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequential logic Design/synchronous sequential.md"
+                "file": "Logic Gate.md"
               }
             }
           },
@@ -119,18 +119,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1104
+    "width": 1258
   },
   "lastOpenFiles": [
-    "Sequential logic Design/synchronous sequential.md",
-    "HDL/synthesis.md",
-    "HDL/Pasted image 20210209021847.png",
-    "HDL/simulation.md",
-    "simulation.md",
-    "synthesis.md",
-    "Hardware Descrip. tion.md",
-    "Verilog.md",
-    "Hardware Description Language.md",
-    "DD.md"
+    "Logic Gate.md",
+    "Inverter.md",
+    "Bitwise operator.md",
+    "Combinational Logic in HDL.md",
+    "HDL/Hardware Description Languages.md",
+    "More combinational logic.md",
+    "Sequential Loginc in HDL.md",
+    "Comments and white space.md",
+    "HDL/Verilog.md",
+    "HDL/synthesis.md"
   ]
 }

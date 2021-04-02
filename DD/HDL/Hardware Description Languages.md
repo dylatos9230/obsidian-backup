@@ -2,4 +2,11 @@
 - Two well-known hardware description languages
 - [[Verilog]]
 - [[VHDL]] (VHSIC Hardware Description Language)
--
+- [[Combinational Logic in HDL]]
+- [[Structural Modeling]]
+- [[Sequential Loginc in HDL]]
+- [[More combinational logic]]
+- [[Finite State Machines in HDL]]
+- [[Datatype]]
+- [[Parameterized Modules]]
+- [[Testbenches]]
