@@ -1,56 +1,33 @@
 {
   "main": {
-    "id": "2bbba8e32151f922",
+    "id": "0937bed1f2f318fe",
     "type": "split",
     "children": [
       {
-        "id": "1da9dc0fda585580",
+        "id": "7773ada0ae44fc27",
         "type": "leaf",
         "active": true,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "User Interface.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "14db78c0b934355e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "StatefullWidgets.md",
+            "file": "产生历史.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "a5799e5909b510ec",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6e3bceb4db75a924",
+    "id": "65281ec65bb556d0",
     "type": "split",
     "children": [
       {
-        "id": "0708d8ece4017fba",
+        "id": "3d3836f70ffdb837",
         "type": "tabs",
         "children": [
           {
-            "id": "48613ed64c5d56d2",
+            "id": "c0f71deabbb09704",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +35,7 @@
             }
           },
           {
-            "id": "d84add1497fb5b1d",
+            "id": "875aa186e1c544e0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "4fe1ddcfd9555bd3",
+    "id": "fd897a58c14f5632",
     "type": "split",
     "children": [
       {
-        "id": "fb046863b09fc936",
+        "id": "66c83814aeba55b7",
         "type": "tabs",
         "children": [
           {
-            "id": "12b68abdbb5c2693",
+            "id": "9a29fbee52c95716",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Interface.md",
+                "file": "产生历史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,11 +86,6 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "User Interface.md",
-    "StatefullWidgets.md",
-    "Widgets.md",
-    "Basic widgets.md",
-    "Gestures.md",
     "Untitled.md"
   ]
 }
