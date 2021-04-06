@@ -6,14 +6,46 @@
       {
         "id": "7773ada0ae44fc27",
         "type": "leaf",
-        "active": true,
+        "dimension": 53.088480801335564,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "产生历史.md",
+            "file": "走向敏捷.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
+      },
+      {
+        "id": "cec73ee1b57d198b",
+        "type": "split",
+        "dimension": 46.91151919866444,
+        "children": [
+          {
+            "id": "44773883890a2f73",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "消除浪费.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "52cd1ab3c66a4625",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "产生历史.md",
+                "file": "消除浪费.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +118,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "消除浪费.md",
+    "精益.md",
+    "Pasted image 20210405155914.png",
+    "走向敏捷.md",
     "Untitled.md"
   ]
 }
